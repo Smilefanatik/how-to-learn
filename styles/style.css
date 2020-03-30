@@ -47,7 +47,6 @@
   position: absolute;
   align-self: flex-end;
   z-index: 2;
-  border: 1px red solid;
 
 }
 
@@ -97,7 +96,6 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  border: 1px red solid;
   margin: 0;
 }
 
