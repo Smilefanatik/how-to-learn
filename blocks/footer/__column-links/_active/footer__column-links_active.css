@@ -1,7 +1,0 @@
-.footer__column-links_active {
-  transition: opacity .5s ease;
-}
-
-.footer__column-links_active:hover {
-  opacity: .6;
-} 
